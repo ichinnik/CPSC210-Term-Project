@@ -1,0 +1,24 @@
+{
+    "characterClass": "Warrior",
+    "level": 30,
+    "background": "High King",
+    "name": "Ulfric",
+    "inventory": [
+        {
+            "itemType": "consumable",
+            "equipped": true,
+            "name": "Potion",
+            "weight": 5,
+            "value": 67,
+            "favorite": true
+        },
+        {
+            "itemType": "weapon",
+            "equipped": false,
+            "name": "Sword",
+            "weight": 10,
+            "value": 25,
+            "favorite": false
+        }
+    ]
+}

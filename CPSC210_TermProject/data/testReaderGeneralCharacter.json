@@ -1,0 +1,24 @@
+{
+    "inventory": [
+        {
+            "name": "Sword",
+            "itemType": "weapon",
+            "weight": 10,
+            "value": 25,
+            "equipped": true,
+            "favorite": true
+        },
+        {
+            "name": "Potion",
+            "itemType": "consumable",
+            "weight": 5,
+            "value": 67,
+            "equipped": false,
+            "favorite": false
+        }
+    ],
+    "name": "John",
+    "characterClass": "Knight",
+    "level": 3,
+    "background": "Silly goose"
+}
